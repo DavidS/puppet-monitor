@@ -1,0 +1,16 @@
+{
+  "name": "example42-monitor",
+  "version": "2.0.0",
+  "author": "Alessandro Franceschi",
+  "summary": "Puppet monitoring abstraction meta module",
+  "license": "Apache 2.0",
+  "source": "https://github.com/example42/puppet-monitor",
+  "project_page": "https://github.com/example42/puppet-monitor",
+  "issues_url": "https://github.com/example42/puppet-monitor/issues",
+  "dependencies": [
+    {
+      "name": "puppetlabs-stdlib",
+      "version_requirement": ">= 1.0.0"
+    }
+  ]
+}
